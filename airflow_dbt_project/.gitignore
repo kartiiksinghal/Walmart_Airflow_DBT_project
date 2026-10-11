@@ -1,0 +1,6 @@
+.env
+logs/
+__pycache__/
+walmart_project/target/
+walmart_project/logs/
+walmart_project/dbt_packages/
